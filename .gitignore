@@ -1,0 +1,5 @@
+/project/
+/target/
+/.apt_generated/
+.idea
+*.iml
